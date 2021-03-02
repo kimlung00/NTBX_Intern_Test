@@ -1,6 +1,6 @@
 ######################################
-x=-10
-y=-10
+x=0
+y=0
 #1=W 2=N 3=E 4=S   
 direction=2
 Current_direction=['West','North','East','South']
